@@ -31,6 +31,7 @@ The query combines account creation and email activity using:
 - time-based analysis
 - top-10 country filtering
 
+🔗 [Open SQL Code results](https://docs.google.com/spreadsheets/d/1nsmeZvW5x_b9x2RJ9Xn3vohS73-RVyO3e3oIHUqVQLA/edit?usp=sharing)
 ## Dashboard
 Includes:
 - country comparison
