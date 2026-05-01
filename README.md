@@ -36,3 +36,5 @@ Includes:
 - country comparison
 - ranking visualization
 - email activity over time
+
+🔗 [Open Interactive Dashboard](https://datastudio.google.com/reporting/e27f71c7-2b2a-4afa-8cb0-b215290cd249)
